@@ -1,0 +1,27 @@
+{
+  "name": "imgupload",
+  "version": "1.0.0",
+  "description": "node+express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daisy-patrick-liu/imgupload.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "daisy-liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daisy-patrick-liu/imgupload/issues"
+  },
+  "homepage": "https://github.com/daisy-patrick-liu/imgupload#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "formidable": "^1.1.1"
+  }
+}
